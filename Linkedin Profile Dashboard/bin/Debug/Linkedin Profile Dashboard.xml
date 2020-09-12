@@ -1,0 +1,241 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Linkedin Profile Dashboard
+</name>
+</assembly>
+<members>
+<member name="T:Linkedin_Profile_Dashboard.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.briefcase_300px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.chat_300px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.eye_300px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Facebook_300px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.file_preview_300px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_10">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_13">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_15">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_151">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_18">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_181">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_22">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_23">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_25">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_27">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_28">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.Group_9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.home_300px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.instagram_300px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.linkedin_300px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.marker_300px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.more_than_300px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.photo_1485875437342_9b39470b3d95">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.photo_1494354145959_25cb82edf23d">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.photo_1494354145959_25cb82edf23d1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.photo_1494790108377_be9c29b29330">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.photo_1503443207922_dff7d543fd0e">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.photo_1506794778202_cad84cf45f1d">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.photo_1512353087810_25dfcd100962">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.photo_1512353087810_25dfcd1009621">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.planner_300px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.search_300px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.search_300px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.speaker_300px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.twitter_300px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Linkedin_Profile_Dashboard.My.Resources.Resources.user_group_300px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
